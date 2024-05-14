@@ -1,0 +1,28 @@
+/* ! =====> General / Global Classes */
+
+* {
+    box-sizing: border-box;
+}
+
+
+
+h1 {
+    font-size: 80px;
+    font-family: Impact;
+}
+
+button {
+
+    height: 80px;
+    background-color: blue;
+    color: white;
+    width: 250px;
+}
+
+p {
+    font-size: 35px;
+}
+
+button:hover {
+    background-color: green;
+}
